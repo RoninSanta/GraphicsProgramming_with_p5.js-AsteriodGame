@@ -42,3 +42,6 @@ This is a built using the p5.js library so therefore make sure that the p5 libra
       }
     }
 ```
+![2023-10-10 01_13_21-Greenshot](https://github.com/RoninSanta/GraphicsProgramming_with_p5.js-AsteriodGame/assets/109457795/1ef55100-a5e6-4cdc-b6c4-e0eefd812ecb)
+
+
