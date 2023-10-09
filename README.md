@@ -1,13 +1,13 @@
-# Graphics Programming with_p5.js-Asteriod Game Clone
+# Graphics Programming with p5.js-Asteriod Game Clone
 I created a asteroid game clone using p5.js libraries, hoping to demonstrate the mechanics of collision detection.
 
-#### [Instructions]
+### [Instructions]
 This is a built using the p5.js library so therefore make sure that the p5 library is installed on your IDE(Visual Studio Code, etc..) before running the project. For VSCode users make sure to install the 'live-server' extension and right click the **index.html** file and choose the `Open with Live Server` option and the game will run on a HTML window on your browser. 
 - Press SPACE to start game
 - WASD to move spaceship
 - Press SPACE to fire bullets and hit astheriods
 
-#### The main `objective` of this project is 2 things:
+### The main `objective` of this project is 2 things:
 
 1. The successful implementation constrcutor method, where I have multiple seperated Javascripts each purpose is to generate a specific environment
    - Such as the `bulletSystem.js` is to generate "Bullets" that emits from the spaceship whenever the user presses SPACE button
