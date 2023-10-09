@@ -7,7 +7,7 @@ This is a built using the p5.js library so therefore make sure that the p5 libra
 - WASD to move spaceship
 - Press SPACE to fire bullets and hit astheriods
 
-### The main `objective` of this project is 2 things:
+### The main **objective** of this project is 2 things:
 
 1. The successful implementation constrcutor method, where I have multiple seperated Javascripts each purpose is to generate a specific environment
    - Such as the `bulletSystem.js` is to generate "Bullets" that emits from the spaceship whenever the user presses SPACE button
